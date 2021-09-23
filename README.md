@@ -1,4 +1,6 @@
-# nuxt minimal starter
+# NUXT 3
+
+nuxt 3 simple firebase - task app
 
 ## Build Setup
 
